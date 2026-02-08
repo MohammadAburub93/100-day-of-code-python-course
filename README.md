@@ -20,7 +20,7 @@ This portfolio demonstrates proficiency in the following areas:
 The projects are delivered to demonstrate daily consistency and growth.
 
 | Topic / Project | Key Skills |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Coffee Machine** | OOP, Resource Management, Complex Logic |
 | **Turtle Crossing Game** | Class Inheritance, GUI Event Listening |
 | **US States Game** | Pandas, CSV Data Analysis |
