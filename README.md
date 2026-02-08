@@ -19,7 +19,7 @@ This portfolio demonstrates proficiency in the following areas:
 ## 📂 Repository Structure
 The projects are delivered to demonstrate daily consistency and growth.
 
-| Folder | Topic / Project | Key Skills |
+| Topic / Project | Key Skills |
 | :--- | :--- | :--- |
 | **Coffee Machine** | OOP, Resource Management, Complex Logic |
 | **Turtle Crossing Game** | Class Inheritance, GUI Event Listening |
